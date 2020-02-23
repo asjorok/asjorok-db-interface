@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nsqjs": "^0.12.1"
+    "redis-request-broker": "^1.2.0"
   }
 }

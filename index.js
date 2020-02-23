@@ -1,3 +1,1 @@
-const PlanetList = require('./planet.list');
-
-new PlanetList().connect();
+const planetList = require('./planet.list');
